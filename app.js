@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML = '<h1>Welcome to Your Digital Vision Board Platform</h1><p>Create and share your vision boards to manifest your goals and dreams.</p>';
